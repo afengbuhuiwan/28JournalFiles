@@ -1,0 +1,28 @@
+1.Understanding In-Context Learning via Supportive Pretraining Data 
+2.Glot500: Scaling Multilingual Corpora and Language Models to 500 Languages
+3.Evaluating Open-Domain Question Answering in the Era of Large Language Models
+4.Augmentation-Adapted Retriever Improves Generalization of Language Models as Generic Plug-In
+5.Self-Adaptive In-Context Learning: An Information Compression Perspective for In-Context Example Selection and Ordering
+6.Pre-Training to Learn in Context
+7.Preserving Commonsense Knowledge from Pre-trained Language Models via Causal Inference
+8.WinoQueer: A Community-in-the-Loop Benchmark for Anti-LGBTQ+ Bias in Large Language Models
+9.Searching for Needles in a Haystack: On the Role of Incidental Bilingualism in PaLM's Translation Capability
+10.KILM: Knowledge Injection into Encoder-Decoder Language Models
+11.When not to trust language models: Investigating effectiveness of parametric and non-parametric memories
+12.Measuring Inductive Biases of In-Context Learning with Underspecified Demonstrations
+13.Unified Demonstration Retriever for In-Context Learning
+14.RetroMAE-2: Duplex Masked Auto-Encoder For Pre-Training Retrieval-Oriented Language Models
+15.ReAugKD: Retrieval-augmented knowledge distillation for pre-trained language models
+16.Increasing Diversity While Maintaining Accuracy: Text Data Generation with Large Language Models and Human Interventions
+17.Prompting palm for translation: Assessing strategies and performance
+18.Surface-Based Retrieval Reduces Perplexity of Retrieval-Augmented Language Models
+19.Multilingual LLMs are Better Cross-lingual In-context Learners with Alignment
+20.Towards Benchmarking and Improving the Temporal Reasoning Capability of Large Language Models
+21.MixCE: Training Autoregressive Language Models by Mixing Forward and Reverse Cross-Entropies
+22.Rethinking the role of scale for in-context learning: An interpretability-based case study at 66 billion scale
+23.Lambada: Backward chaining for automated reasoning in natural language
+24.Matching Pairs: Attributing Fine-Tuned Models to their Pre-Trained Large Language Models
+25.Verify-and-edit: A knowledge-enhanced chain-of-thought framework
+26.Symbolic Chain-of-Thought Distillation: Small Models Can Also" Think" Step-by-Step
+27.Pre-trained language models can be fully zero-shot learners
+28.mCLIP: Multilingual CLIP via Cross-lingual Transfer
